@@ -140,10 +140,10 @@ defaults:
     values:
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
-          label: Tags
+          label: 标签
           url: /tabs/tags/
   -
     scope:
@@ -151,10 +151,10 @@ defaults:
     values:
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
-          label: Categories
+          label: 分类
           url: /tabs/categories/
   -
     scope:
@@ -165,7 +165,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
 
 sass:
